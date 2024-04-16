@@ -51,7 +51,7 @@ function divisao() {
         document.getElementById("resultado").innerHTML = "Impossível dividir por zero!";
     } else {
         var resultado = num1 / num2;
-        document.getElementById("resultado").innerHTML = "O resultado da divisão é: " + resultado;
+        document.getElementById("resultado").innerHTML = "O resultados da divisão é: " + resultado;
     }
 }
 </script>
